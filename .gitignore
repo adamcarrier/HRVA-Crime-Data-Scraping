@@ -1,0 +1,8 @@
+# Ignore R history
+.Rhistory
+.Rapp.history
+.RData
+
+# Ignore data sets
+/data/
+crime-data.zip
