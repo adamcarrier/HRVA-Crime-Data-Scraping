@@ -1,4 +1,5 @@
-#HRVA-Crime-Data Scraping#
+HRVA-Crime-Data Scraping
+========================
 
 Some R functions for scraping and compiling Hampton Roads crime data from the [HRVA-Crime-Data repo](https://github.com/Code4HR/HRVA-Crime-Data). Currently, only Newport News crime data is available.
 
